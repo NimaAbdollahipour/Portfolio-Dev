@@ -1,0 +1,46 @@
+
+:root {
+  --darkest:#17252A;
+  --dark:#2B7A78;
+  --green:#3AAFA9;
+  --light:#DEF2F1;
+  --lightest:#FEFFFF;
+}
+@font-face {
+  font-family: Rubik;
+  src: url("Rubik-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: Garamond;
+  src: url("EBGaramond-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: Lobster;
+  src: url("Lobster-Regular.ttf");
+}
+@font-face {
+  font-family: Anton;
+  src: url("Anton-Regular.ttf");
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+a,button,span{
+  font-family: Rubik;
+}
+p{
+  font-family: Garamond;
+  font-weight: bold;
+}
+h1{
+  font-family: Lobster;
+}
+h2{
+  font-family: Anton;
+}
+h3,h4{
+  font-family: Garamond;
+  font-weight: bolder;
+}

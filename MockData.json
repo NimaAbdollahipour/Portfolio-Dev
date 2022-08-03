@@ -1,0 +1,164 @@
+{
+    "designs":[
+        {
+            "id":1,
+            "image":"./src/assets/carriage.png",
+            "description":"nice carriage with grass",
+            "link":"https://www.cgtrader.com/3d-models/vehicle/other/carriage-6802e1d2-b117-4b0e-944e-627f206d2a7d"
+        },
+        {
+            "id":2,
+            "image":"./src/assets/cottage.png",
+            "description":"old wooden cottage",
+            "link":"https://www.cgtrader.com/3d-models/exterior/house/wooden-house-f920397d-2322-4845-926d-9fa838252d92"
+        },
+        {
+            "id":3,
+            "image":"./src/assets/church.png",
+            "description":"small old church",
+            "link":"#"
+        },
+        {
+            "id":4,
+            "image":"./src/assets/house.png",
+            "description":"cartoonish house",
+            "link":"#"
+        },
+        {
+            "id":5,
+            "image":"./src/assets/apartment.png",
+            "description":"low poly apartment",
+            "link":"#"
+        },
+        {
+            "id":6,
+            "image":"./src/assets/interior.png",
+            "description":"interior of house with chair and book shelf",
+            "link":"#"
+        }
+    ],
+    "projects":[
+        {
+            "id":1,
+            "title":"Greenhouse Automation",
+            "description":"A system for monitoring the greenhouse and automating the heating, cooling and irrigation",
+            "link":"https://github.com/NimaAbdollahipour/Greenhouse_Automation",
+            "tags":["python","flask","c++","rest-api","html","javascript","css"]
+        },
+        {
+            "id":2,
+            "title":"Passman",
+            "description":"Simple command line password manager with simple encryption",
+            "link":"https://github.com/NimaAbdollahipour/Passman",
+            "tags":["python"]
+        },
+        {
+            "id":3,
+            "title":"Academy",
+            "description":"An platform for online classes and examination",
+            "link":"https://github.com/NimaAbdollahipour/Academy",
+            "tags":["python","flask","html","css"]
+        },
+        {
+            "id":4,
+            "title":"HTML to xlsx",
+            "description":"A simple module for extracting data from html table and saving to excel file with xlsx extention",
+            "link":"https://github.com/NimaAbdollahipour/HtmlToXlsx",
+            "tags":["python","webscraping","beautifulsoup"]
+        },
+        {
+            "id":5,
+            "title":"Indoor Navigation Application",
+            "description":"An android application which allows users to find their location based on strength of wifi signals inside buildings",
+            "link":"https://github.com/NimaAbdollahipour/LocationFinder",
+            "tags":["Java","Android"]
+        },
+        {
+            "id":6,
+            "title":"Tic Tac Toe",
+            "description":"A browser based tic-tac-toe game",
+            "link":"https://github.com/NimaAbdollahipour/tic-tac-toe",
+            "tags":["css","html","javascript"]
+        },
+        {
+            "id":7,
+            "title":"Golay Code",
+            "description":"Golay Code with matlab",
+            "link":"https://github.com/NimaAbdollahipour/Golay_Code_with_Matlab",
+            "tags":["matlab"]
+        },
+        {
+            "id":8,
+            "title":"Distance Vector",
+            "description":"",
+            "link":"https://github.com/NimaAbdollahipour/DistanceVector",
+            "tags":["python"]
+        },
+        {
+            "id":9,
+            "title":"Least Square Fitting",
+            "description":"",
+            "link":"https://github.com/NimaAbdollahipour/LeastSquare",
+            "tags":["matlab","fitting"]
+        },
+        {
+            "id":10,
+            "title":"Basic DNS",
+            "description":"Basic DNS server and client",
+            "link":"https://github.com/NimaAbdollahipour/Basic_DNS",
+            "tags":["python"]
+        }
+    ],
+    "books":[
+        {
+            "id":1,
+            "title":"Think and Grow Rich",
+            "description":"",
+            "author":"Ross Cornwell",
+            "image":"./src/assets/book_1.png",
+            "link":"https://www.amazon.com/Think-Grow-Rich-ebook/dp/B001NGN2D2"
+        },
+        {
+            "id":2,
+            "title":"Can't Hurt Me",
+            "description":"",
+            "author":"David Goggings",
+            "image":"./src/assets/book_3.png",
+            "link":"https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287"
+        },
+        {
+            "id":3,
+            "title":"Atomic Habbits",
+            "description":"",
+            "author":"James Clear",
+            "image":"./src/assets/book_2.png",
+            "link":"https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299"
+        }
+    ],
+    "videos":[
+        {
+            "id":1,
+            "title":"15 Books Elon Musk Thinks Everyone Should Read",
+            "description":"",
+            "channel":"Alux.com",
+            "preview":"https://www.youtube.com/embed/RlvTw8kcP6A",
+            "link":"https://www.youtube.com/watch?v=RlvTw8kcP6A"
+        },
+        {
+            "id":2,
+            "title":"Arnold Schwarzenegger Leaves the Audience SPEECHLESS",
+            "description":"",
+            "channel":"MotivationHub",
+            "preview":"https://www.youtube.com/embed/1bumPyvzCyo&t=344s",
+            "link":"https://www.youtube.com/watch?v=1bumPyvzCyo&t=344s"
+        },
+        {
+            "id":3,
+            "title":"One of the Greatest Speeches Ever",
+            "description":"",
+            "channel":"Motivation Ark",
+            "preview":"https://www.youtube.com/embed/Tuw8hxrFBH8&t=207s",
+            "link":"https://www.youtube.com/watch?v=Tuw8hxrFBH8&t=207s"
+        }
+    ]
+}
